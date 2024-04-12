@@ -26,3 +26,4 @@
     - Formatage d'une chaine avec l'opérateur `%`
 - Séance 8 :
     - Formatage d'une chaine avec la fonction `format()` et le prefix `f`
+    - TD2
