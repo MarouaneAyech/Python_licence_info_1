@@ -27,3 +27,4 @@
 - Séance 8 :
     - Formatage d'une chaine avec la fonction `format()` et le prefix `f`
     - TD2
+    - DS & Correction
