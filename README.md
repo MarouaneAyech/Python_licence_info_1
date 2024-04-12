@@ -20,3 +20,9 @@
 - Séance 6 :
     - TD1
     - Correction de TD1
+- Séance 7 :
+    - Boucle `while`
+    - Les instructions d'arrêt `break` et `continue`
+    - Formatage d'une chaine avec l'opérateur `%`
+- Séance 8 :
+    - Formatage d'une chaine avec la fonction `format()` et le prefix `f`
