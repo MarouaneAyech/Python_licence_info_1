@@ -28,3 +28,7 @@
     - Formatage d'une chaine avec la fonction `format()` et le prefix `f`
     - TD2
     - DS & Correction
+- Séance 9 :
+    - Concept de `List Comprehension`
+    - Les `fonctions`
+    - TD3
