@@ -2,6 +2,8 @@
 
 # Classe : licence info 1
 
+# Université : Polytech INTL
+
 # Contenu :
 - Séance 1 :
     - Types de base `int`, `float`, `bool` et `str`
